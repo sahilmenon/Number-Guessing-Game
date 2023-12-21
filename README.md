@@ -11,7 +11,7 @@
 ## Watch the demo:
 TBD
 
-##Dependencies
+## Dependencies
 This code requires Python and random.  If you have Python and pip, you can get numpy via
 
     pip install random
